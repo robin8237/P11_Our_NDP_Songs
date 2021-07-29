@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">P11 Our NDP Songs</string>
+    <string name="title">Song Title</string>
+    <string name="Htitle">Enter Song Title Here</string>
+    <string name="singer">Singers</string>
+    <string name="Hsinger">Enter Singers\' name here</string>
+    <string name="year">Year</string>
+    <string name="Hyear">Enter Year of release here</string>
+    <string name="star">Stars</string>
+    <string name="ins">Insert</string>
+    <string name="SL">Show List</string>
+    <string name="S5S">Show All Songs With 5 Stars</string>
+    <string name="ID">Song ID</string>
+    <string name="upd">Update</string>
+    <string name="del">Delete</string>
+    <string name="can">Cancel</string>
+    <string name="star1">1</string>
+    <string name="star2">2</string>
+    <string name="star3">3</string>
+    <string name="star4">4</string>
+    <string name="star5">5</string>
+    <string name="back">Add Another Song</string>
+    <string name="Sall">Show All Songs</string>
+</resources>
